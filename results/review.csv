@@ -1,0 +1,546 @@
+registrationNumber,version,summary,my_score_1_to_5,failure_category,comment
+SYN-000029,v1_raw,"# Company Vetting Summary — Unity Global Trading Sdn. Bhd.
+
+**Registration:** SYN-000029 | **Status:** Active | **Type:** Private limited company
+**Incorporated:** 15 Jun 2018 | **State:** Selangor | **Industry:** Retail (textiles & baju kurung)
+**Share Capital:** MYR 250,000 | **Former names:** None
+
+## Key Observations
+
+**Ownership & Control**
+- 4 shareholders, all individuals who are also directors — **no external/corporate shareholders**.
+- **Director 4 holds 58.25%** (majority control) and was appointed only **30 Nov 2025** — a recent, significant ownership/control change worth clarifying.
+- Director 5 (Executive Director, appointed Nov 2025) holds 21.22%.
+- Board of 5 directors; two appointments in late 2025 suggest recent governance turnover.
+
+**Financial Trend (FY2022–FY2024, all unqualified audits)**
+- Revenue growing modestly: MYR 5.13M → 5.35M.
+- **Profitability thin and flat:** net margin ~1.8–2.2%; PAT declining (113.9k → 96.8k).
+- **Leverage high:** ~79–81%; interest coverage weak (~2.1–2.3x).
+- **Liquidity adequate** (quick ratio 1.35–1.62) but **free cash flow negative in all three years**; capex consistently exceeds operating cash flow.
+- **Receivables-heavy:** DSO ~88–97 days — collection risk.
+
+**Litigation:** None recorded.
+
+## Flags for Further Inspection
+1. **Recent majority ownership change** (Director 4, Nov 2025) — verify beneficial ownership and rationale.
+2. **Negative free cash flow** across all reported years despite reported profits.
+3. **High leverage / low interest coverage** — debt servicing sensitivity.
+4. **Long receivables cycle** — counterparty credit exposure.
+5. Director names are anonymized (""Director 1–5"") — KYC/identity verification required.
+
+## Recommendation
+**Worth a closer look, with conditions.** Fundamentals are stable and audited cleanly, but the recent control change, persistent negative FCF, and thin margins warrant targeted due diligence (ownership verification, cash flow drivers, receivables aging) before any procurement or partnership commitment.",4,risk_label_off,"Catches DSO (88–97d), negative FCF, and Nov 2025 control shift, but uses a hedged recommendation instead of a clear risk tier."
+SYN-000029,v2_numbers,"**Verdict:** Unity Global Trading Sdn. Bhd. is a Selangor-based retailer of textiles and baju kurung, operating for 7.5 years, and looks Moderate Risk overall given thin margins and persistent negative free cash flow.
+
+- **Financials:** FY2024 revenue was RM5.35M, up modestly from RM5.23M in FY2023; PAT slipped to RM96,805 (1.8% net margin) from RM97,951, continuing a declining margin trend despite gross margin improving to 35.1%. Free cash flow was negative in all three years, at -RM239,509 in FY2024, though the quick ratio of 1.3506 remains adequate.
+- **Governance:** Five directors and four shareholders, with directors holding 100.0% of ownership; the top shareholder (an individual, Director 4) holds 58.25%. Two 2025 board appointments: Director 4 (Director, 2025-11-30) and Director 5 (Executive Director, 2025-11-01). No former names.
+- **Litigation & Risks:** No litigation — zero cases and RM0 defendant claim exposure. No audit flags; all three years unqualified. Watch items are the negative FCF and DSCR of 1.0701 in FY2024.
+- **Next Step:** Verify the nature of the late-2025 board changes and confirm the source of working-capital funding behind recurring negative free cash flow.",5,none,"Decision-ready Moderate Risk summary that pairs exact negative FCF (-RM239,509) and tight DSCR (1.07) with targeted governance and funding checks."
+SYN-000029,v3_flags,"**Verdict:** Unity Global Trading Sdn. Bhd. is a Selangor-based retailer of textiles and baju kurung, incorporated 2018 (7.5 years), and looks **Moderate Risk** overall.
+
+- **Financials:** FY2024 revenue was RM5.35M with PAT of RM96,805 (net margin 1.8%, down from 2.2% in FY2022); gross margin improved to 35.1%. Liquidity is adequate (quick ratio 1.3506), but free cash flow was negative at -RM239,509 in FY2024, the third consecutive negative year.
+- **Governance:** Five directors and four shareholders, with directors holding 100.0% of shares; the top shareholder (an individual) holds 58.25%. Two 2025 board appointments: Director 4 (Director, 2025-11-30) and Director 5 (Executive Director, 2025-11-01). No former names.
+- **Litigation & Risks:** Clean — 0 court cases and RM0 defendant claim exposure. Audit opinions were Unqualified across FY2022–FY2024; the main flag is persistent negative free cash flow.
+- **Next Step:** Verify the cause of recurring negative free cash flow and confirm whether the late-2025 board changes altered shareholding or control.",4,missed_key_risk,"Right verdict and clean structure, but omits the razor-thin DSCR (1.07x) and leaves the 58.25% majority holder unnamed."
+SYN-000067,v1_raw,"# Jaya Prima Travel Sdn. Bhd. — Vetting Summary
+
+**Registration:** SYN-000067 | **Status:** Active | **Type:** Private limited
+**Incorporated:** 1995-04-01 | **State:** Kuala Lumpur | **Industry:** Hospitality
+**Nature of business:** Travel agency — umrah & inbound tourism
+**Share capital:** MYR 2,500,000 | **Former names:** None
+
+## Ownership & Governance
+- **Concentration:** Director 1 holds 47.38%; Director 2 holds 34.78%; Director 4 holds 17.84% — all individual shareholders, no corporate/institutional holders.
+- **Directors:** 4 total. Managing Director since 2004; one Independent Director (since 2018); two Directors appointed 2020 and **2025-10-27** (recent change — verify).
+- **Litigation:** No cases on record.
+
+## Financial Trend (FY2022–FY2024)
+| Metric | 2022 | 2023 | 2024 |
+|---|---|---|---|
+| Revenue (MYR) | 49.5M | 46.5M | 43.3M |
+| Gross margin | 57.6% | 62.0% | 54.1% |
+| Operating profit | -3.3M | -5.2M | -6.7M |
+| Net profit | -4.2M | -6.1M | -7.5M |
+| Operating cash flow | -3.3M | -6.6M | -5.9M |
+| Total equity | 31.2M | 25.1M | 17.6M |
+| Leverage ratio | 1.29 | 1.68 | 2.56 |
+| Quick ratio | 0.82 | 0.79 | 0.55 |
+
+## Key Risk Flags
+- **Sustained losses and deteriorating trend:** Three consecutive loss-making years with widening net losses; equity down ~44% since 2022.
+- **Negative operating and free cash flow** every year; free cash flow ≈ -8.5M in FY2024.
+- **Rising leverage** (1.29 → 2.56) with **negative interest coverage** (-8.1x) and negative debt-service coverage.
+- **Liquidity weakening:** quick ratio fell to 0.55; net working capital turned negative (-4.2M) in FY2024.
+- **Revenue declining** ~12% over two years while operating expenses remain high (~70% of revenue).
+- **Audit:** Unqualified opinions from Audit Firm 7 across all three years (no going-concern qualification noted, but losses warrant scrutiny).
+
+## Recommendation
+**Proceed with caution — inspect further before any procurement or partnership commitment.** The company is active and long-established with clean audit opinions, but persistent losses, negative cash flow, and rising leverage are material concerns. Request: latest management accounts, going-concern assessment, details of the 2025 director appointment, and confirmation of funding/guarantor support.",4,risk_label_off,"Thorough 3-year deterioration table and catches negative working capital (-4.2M), but lacks an explicit Elevated Risk call upfront."
+SYN-000067,v2_numbers,"**Verdict:** Jaya Prima Travel Sdn. Bhd. is a Kuala Lumpur-based umrah and inbound tourism travel agency incorporated in 1995 (30.8 years operating), and it screens as Elevated Risk given persistent losses and deteriorating liquidity.
+
+- **Financials:** FY2024 revenue was RM43.29M, down from RM46.46M in FY2023 and RM49.47M in FY2022. Losses widened each year: PAT of -RM7.52M in FY2024 (net margin -17.4%) versus -RM6.12M and -RM4.24M previously. Free cash flow was -RM8.51M in FY2024, the quick ratio fell to 0.5533, and leverage rose to 2.5643; DSCR is negative (-2.7036).
+- **Governance:** Four directors and three shareholders, with directors holding 100.0% of ownership; the top shareholder holds 47.38%. Director 2 was appointed on 2025-10-27. No former names are recorded.
+- **Litigation & Risks:** No litigation on record (0 cases, RM0 defendant exposure). Audit opinions were unqualified across all three years, but the sustained losses, negative cash flow and weakening quick ratio are material financial red flags.
+- **Next Step:** Verify the 2025 director appointment and obtain FY2025 management accounts or a going-concern note, since the digest stops at FY2024.",5,none,"Clear Elevated Risk verdict backed by full 3-year loss trajectory, negative DSCR (-2.70), Oct 2025 board change, and going-concern check."
+SYN-000067,v3_flags,"**Verdict:** Jaya Prima Travel Sdn. Bhd. is a Kuala Lumpur-based umrah and inbound tourism travel agency incorporated on 1995-04-01 and operating for 30.8 years; on the numbers it screens as Elevated Risk.
+
+- **Financials:** FY2024 revenue was RM43.29M, down 12.5% from FY2022 (RM49.47M). Losses have widened each year: PAT -RM7.52M in FY2024 (net margin -17.4%) versus -RM4.24M in FY2022. Free cash flow was -RM8.51M in FY2024, with a quick ratio of 0.5533 and leverage of 2.5643.
+- **Governance:** Four directors and three shareholders; directors hold 100.0% of ownership, with the top shareholder (an individual) at 47.38%. One 2025 board appointment: Director 2, effective 2025-10-27. No former names recorded.
+- **Litigation & Risks:** Clean — 0 court cases and RM0 defendant claim exposure. Audit opinions were Unqualified across FY2022–FY2024, but the loss trend, negative FCF and DSCR of -2.7036 are red flags.
+- **Next Step:** Verify the FY2025 management accounts and any shareholder support or funding plan, given equity fell from RM31.21M to RM17.58M.",5,none,"Decision-ready Elevated Risk call that anchors the funding-plan check directly to the 44% equity drop (RM31.21M to RM17.58M)."
+SYN-000148,v1_raw,"# Company Summary: Indah Prima Medical Sdn. Bhd.
+
+**Registration:** SYN-000148 | **Status:** Active | **Type:** Private limited company
+**Incorporated:** 1993-04-30 | **State:** Kelantan | **Industry:** Healthcare
+**Nature of Business:** Community pharmacy and health supplements
+**Share Capital:** MYR 500,000 | **Former Names:** None
+
+## Ownership & Governance
+- **5 directors** (Managing, Independent, Executive, and 2 Directors); most tenured since 1996, newest appointed 2021.
+- **Concentrated ownership:** Director 4 holds **75.61%**; Director 5 holds 13.5%; Director 3 holds 10.25%; Director 1 holds 0.64%. All shareholders are individuals who are also directors (no external/institutional equity).
+
+## Financial Trend (FY2022–FY2024, year-end 30 Sep)
+| Metric | FY2022 | FY2023 | FY2024 |
+|---|---|---|---|
+| Revenue | 5.53M | 5.34M | 4.84M |
+| Gross margin | 41.9% | 43.1% | 48.4% |
+| Operating profit | -0.46M | -0.77M | -1.03M |
+| Net profit | -0.52M | -0.82M | -1.08M |
+| Operating cash flow | -0.14M | -0.42M | -0.82M |
+| Total equity | 3.78M | 2.96M | 1.88M |
+| Leverage ratio | 1.06 | 1.54 | 2.62 |
+
+- **Audit:** Unqualified opinion each year (Audit Firm 5).
+- **Key concerns:** Three consecutive years of losses with **widening operating losses**; revenue declining; **negative operating and free cash flow**; equity eroding ~50% over two years; leverage rising sharply; interest coverage negative (-19.4x in FY2024); quick ratio below 1 (0.60) and negative net working capital in FY2023–24.
+
+## Litigation
+- No recorded cases.
+
+## Vetting Recommendation
+**Proceed with caution / flag for deeper inspection.** The company is long-established and audited cleanly, but persistent and worsening losses, negative cash generation, eroding equity, and rising leverage are material red flags for procurement or partnership exposure. Recommend requesting latest management accounts, a going-concern assessment, and clarification of shareholder/director concentration before engagement.",4,risk_label_off,"Accurately captures 50% equity erosion, -19.4x interest coverage, and negative NWC, but uses soft recommendation wording without a formal risk tier."
+SYN-000148,v2_numbers,"**Verdict:** Indah Prima Medical Sdn. Bhd. is a Kelantan-based community pharmacy and health supplements business incorporated in 1993 (32.7 years), and it screens as Elevated Risk given three consecutive loss-making years and deteriorating liquidity.
+
+- **Financials:** FY2024 revenue was RM4.84M, down from RM5.53M in FY2022, while PAT worsened to -RM1.08M (net margin -22.4%) from -RM516,132 in FY2022. Free cash flow was -RM1.13M in FY2024 and the quick ratio fell to 0.5989, with leverage rising to 2.6199.
+- **Governance:** Five directors and four shareholders, with director ownership at 100.0%; the top shareholder is Director 4 at 75.61%. No 2025 board appointments and no former names recorded.
+- **Litigation & Risks:** No litigation cases and RM0 defendant claim exposure. Audit opinions were Unqualified across all three years, but persistent losses, negative DSCR (-5.6212) and shrinking equity (RM1.88M) are financial red flags.
+- **Next Step:** Verify the FY2025 management accounts and a signed funding or turnaround plan confirming how the RM1.13M cash burn will be covered.",5,none,"Spot-on Elevated Risk verdict; ties widening losses, -5.62 DSCR, and RM1.13M cash burn directly to a concrete funding-plan check."
+SYN-000148,v3_flags,"**Verdict:** Indah Prima Medical Sdn. Bhd. is a Kelantan-based community pharmacy and health supplements business incorporated in 1993 (32.7 years), and it screens as **Elevated Risk** given persistent losses and deteriorating liquidity.
+
+- **Financials:** Revenue fell from RM5.53M (FY2022) to RM4.84M (FY2024), while net losses widened from -RM516,132 to -RM1.08M (margin -22.4%) despite gross margin improving to 48.4%. Free cash flow was -RM1.13M in FY2024, the quick ratio 0.60, leverage 2.62 and DSCR -5.62x.
+- **Governance:** Five directors and four shareholders, with directors holding 100.0% of shares; the top shareholder (an individual, ""Director 4"") holds 75.61%. No 2025 board appointments and no former names.
+- **Litigation & Risks:** Clean — 0 court cases and RM0 defendant exposure. Audit opinions were Unqualified across FY2022–FY2024; the red flags are financial, not legal.
+- **Next Step:** Obtain FY2025 management accounts and a cash-flow forecast, and verify how the RM1.88M equity base and negative DSCR are being funded.",5,none,"Complete, accurate Elevated Risk call that even notes gross margin rising to 48.4% while opex drives widening net losses."
+SYN-000165,v1_raw,"# Company Summary: Teguh Kirana Freight Sdn. Bhd.
+
+**Registration:** SYN-000165 | **Status:** Active | **Type:** Private limited company
+**Incorporated:** 1992-09-06 | **State:** Pulau Pinang | **Industry:** Logistics
+**Nature of business:** Last-mile parcel delivery across Kuching
+**Share capital:** MYR 2,500,000 | **Former names:** None
+
+## Key Financials (FYE 31 March)
+
+| Metric | FY2022 | FY2023 | FY2024 |
+|---|---|---|---|
+| Revenue | 10.87M | 15.04M | 21.52M |
+| Gross profit margin | 21.8% | 21.2% | 18.7% |
+| Net profit | 0.43M | 0.70M | 0.91M |
+| Net profit margin | 4.0% | 4.7% | 4.3% |
+| Operating cash flow | 1.01M | 1.44M | 1.53M |
+| Total assets | 10.95M | 15.14M | 21.67M |
+| Total equity | 7.15M | 7.64M | 8.28M |
+| Leverage ratio | 0.53 | 0.98 | 1.62 |
+| Quick ratio | 1.83 | 1.42 | 0.99 |
+| Interest coverage | 7.9x | 9.1x | 8.4x |
+
+- **Audit:** Unqualified opinion from Audit Firm 5 for all three years.
+- **Growth:** Revenue up ~98% over two years; profit growth positive but margins compressed (gross margin down ~3 pts).
+- **Cash flow:** Consistently positive operating and free cash flow; accrual ratio negative (good earnings quality).
+- **Working capital:** DSO rising (68 → 88 → 72 days); net working capital turned slightly negative in FY2024 (−64K).
+- **Leverage:** Rising steadily (0.53 → 1.62); quick ratio fell below 1.0 in FY2024 — worth scrutiny.
+
+## Ownership & Governance
+- **Shareholders:** Two individuals — Director 5 (98.34%) and Director 4 (1.66%). Highly concentrated ownership.
+- **Directors:** 5 directors; MD appointed 2001; others 2010–2014. No recent board changes.
+
+## Litigation
+- One case (CASE-2024-7669): debt recovery, **plaintiff**, Sessions Court Pulau Pinang, filed 2024-09-26, claim MYR 169,800 — **Settled**.
+
+## Vetting Flags for Further Inspection
+1. **Rising leverage and weakening liquidity** (quick ratio <1 in FY2024) despite revenue growth.
+2. **Margin compression** alongside rapid expansion — pricing or cost pressure?
+3. **Receivables growth** outpacing revenue in FY2023; DSO volatility.
+4. **Ownership concentration** — 98% held by one director; related-party risk.
+5. **Litigation history** — settled debt recovery case; confirm no residual exposure.
+6. **Geographic mismatch** — registered in Pulau Pinang but operates in Kuching (East Malaysia); verify operational footprint.
+
+**Recommendation:** Financials are audited and profitable with positive cash flow, but leverage, liquidity, and ownership concentration warrant a closer review before partnership or procurement engagement.",4,risk_label_off,"Catches the Pulau Pinang vs. Kuching mismatch, negative accrual ratio, and negative NWC (-64K), but lacks a clear risk label."
+SYN-000165,v2_numbers,"**Verdict:** Teguh Kirana Freight Sdn. Bhd. is a 33.3-year-old Pulau Pinang logistics firm doing last-mile parcel delivery across Kuching; it looks Moderate Risk overall, with growth masking weakening liquidity.
+
+- **Financials:** FY2024 revenue was RM21.52M, up from RM15.04M in FY2023 and RM10.87M in FY2022. PAT rose to RM913,861, though net margin slipped to 4.2% from 4.7% and gross margin fell to 18.7% from 21.1%. Quick ratio dropped to 0.9909 (from 1.4165) and free cash flow fell to RM508,236 (from RM1.09M), while leverage rose to 1.6164.
+- **Governance:** Five directors and two shareholders; directors hold 100.0% of ownership, with Director 5 holding 98.34%. No 2025 board appointments and no former names.
+- **Litigation & Risks:** One settled debt-recovery case as plaintiff (claim RM169,800); no defendant exposure (RM0). Audits were Unqualified each year; no audit flags, but the liquidity and leverage trend warrants attention.
+- **Next Step:** Verify the FY2024 quick-ratio decline and leverage increase against management accounts and confirm the Kuching delivery operations' revenue concentration.",5,none,"Decision-ready Moderate Risk summary; nails how 98% revenue growth masks a sub-1.0 quick ratio (0.99), rising leverage (1.62), and Kuching concentration."
+SYN-000165,v3_flags,"**Verdict:** Teguh Kirana Freight Sdn. Bhd. is a 33.3-year-old Pulau Pinang logistics firm doing last-mile parcel delivery across Kuching, and it looks Moderate Risk overall.
+
+- **Financials:** FY2024 revenue was RM21.52M, up 97.9% from FY2022 (RM10.87M); PAT was RM913,861 at a 4.2% net margin, down from 4.7% in FY2023 as gross margin slipped to 18.7%. Free cash flow fell to RM508,236 in FY2024 from RM1.09M, and the quick ratio is 0.9909 — tight short-term liquidity.
+- **Governance:** Five directors and two shareholders; directors hold 100.0% of ownership, with Director 5 at 98.34%. No 2025 board appointments and no former names.
+- **Litigation & Risks:** One settled debt-recovery case (CASE-2024-7669), as plaintiff, claiming RM169,800; no defendant exposure (RM0). Audits were Unqualified in all three years; the only flag is the FY2024 quick ratio.
+- **Next Step:** Verify the FY2024 liquidity position — check the receivables ageing and any post-year-end collections behind the 0.9909 quick ratio.",3,missed_key_risk,"Right verdict and receivables check, but misses the steep leverage jump (0.53 to 1.62) and calls the quick ratio the 'only flag' despite 98.34% control."
+SYN-000217,v1_raw,"# Company Summary: Teguh Bestari Learning Sdn. Bhd.
+
+**Registration:** SYN-000217 | **Status:** Active | **Type:** Private Limited
+**Incorporated:** 07 Dec 1991 | **State:** Selangor | **Industry:** Education
+**Nature of Business:** Private kindergarten and childcare (Johor Bahru)
+**Share Capital:** MYR 2,500,000 | **Former Names:** None
+
+## Ownership & Management
+- **Director 1** – Managing Director (since 1995); holds **51.02%**
+- **Director 2** – Director (since 2000); holds **48.98%**
+- Ownership is fully held by the two directors (no corporate shareholders).
+
+## Financial Trend (MYR)
+| Metric | FY2022 | FY2023 | FY2024 |
+|---|---|---|---|
+| Revenue | 2.98M | 4.10M | 5.61M |
+| Gross Profit | 1.49M | 1.97M | 3.03M |
+| Operating Profit | 260K | 404K | 654K |
+| Profit After Tax | 138K | 226K | 386K |
+| Total Assets | 3.37M | 4.64M | 6.34M |
+| Total Equity | 1.31M | 1.47M | 1.74M |
+| Borrowings | 1.41M | 1.94M | 2.65M |
+| Operating Cash Flow | 250K | 393K | 524K |
+
+- **Growth:** Revenue up ~88% and PAT up ~179% over two years.
+- **Margins:** Gross ~48–54%; net ~4.7–6.9% (improving).
+- **Liquidity:** Quick ratio declining (1.25 → 0.96); net working capital turned **negative (-87K) in FY2024**.
+- **Leverage:** Rising (1.57 → 2.65); interest coverage improving (3.35 → 4.48); DSCR softened to 1.51.
+- **Cash conversion cycle:** Negative (~-29 days) — favorable working capital dynamics.
+
+## Key Risk Flags
+1. **Audit opinion FY2023: ""Disclaimer of opinion""** — a material concern; FY2022 and FY2024 were unqualified. Needs explanation.
+2. **Rising leverage** and **negative net working capital** in FY2024.
+3. **Geographic/operational mismatch:** Registered in Selangor but business described in Johor Bahru — verify operating footprint.
+4. **Concentrated ownership** (two individuals, both directors) — key-person risk.
+5. **No litigation** on record.
+
+## Recommendation
+**Worth further inspection**, with conditions. The company shows strong revenue/profit growth and healthy cash generation, but the **FY2023 disclaimer of opinion**, rising debt, and negative working capital warrant a closer look. Request: (a) explanation of the FY2023 audit disclaimer, (b) latest management accounts, (c) debt schedule/covenants, and (d) clarification of operating locations.",4,risk_label_off,"Catches the FY2023 audit disclaimer, negative CCC (-29d), and Selangor vs. JB mismatch, but lacks a formal Elevated Risk label."
+SYN-000217,v2_numbers,"**Verdict:** Teguh Bestari Learning Sdn. Bhd. is a 34.1-year-old Selangor private limited company in the education sector (private kindergarten and childcare in Johor Bahru), and it looks **Moderate Risk** overall.
+
+- **Financials:** FY2024 revenue was RM5.61M with PAT of RM386,389 (net margin 6.9%, up from 4.7% in FY2022); free cash flow was RM357,848. However, the quick ratio fell to 0.9583 and leverage rose to 2.6459, with DSCR at 1.5071 — liquidity is tightening as debt grows.
+- **Governance:** Two directors and two shareholders, with directors holding 100.0% ownership; the top shareholder holds 51.02%. No 2025 board appointments and no former names.
+- **Litigation & Risks:** No litigation at all (0 cases, RM0 exposure). The key red flag is the FY2023 **disclaimer of opinion**, which reverted to unqualified in FY2024 — this needs explanation.
+- **Next Step:** Obtain the FY2023 audit file and management representations to understand why the auditor disclaimed, and confirm the FY2024 unqualified opinion addressed those issues.",4,risk_label_off,"Captures all numbers and asks the right question on the FY2023 audit disclaimer, but under-rates risk as Moderate despite the disclaimer + 2.65x leverage."
+SYN-000217,v3_flags,"**Verdict:** Teguh Bestari Learning Sdn. Bhd. is a 34.1-year-old Selangor private limited company in the education sector (private kindergarten and childcare in Johor Bahru); overall risk looks **Elevated** given audit and liquidity concerns.
+
+- **Financials:** FY2024 revenue was RM5.61M with PAT of RM386,389 (net margin 6.9%, up from 4.7% in FY2022); free cash flow was RM357,848. However, the FY2024 quick ratio of 0.9583 is below 1, and leverage rose to 2.6459.
+- **Governance:** Two directors and two shareholders, with director ownership at 100.0%; the top shareholder (an individual) holds 51.02%. No 2025 board appointments and no former names on record.
+- **Litigation & Risks:** Clean litigation record (0 cases, RM0 exposure). Key red flag: the FY2023 audit opinion was a ""Disclaimer of opinion,"" though FY2022 and FY2024 were Unqualified.
+- **Next Step:** Obtain the FY2023 auditor's basis for the disclaimer and confirm whether the underlying issues were resolved before FY2024.",5,none,"Best calibration across versions—properly elevates risk to Elevated on the FY2023 audit disclaimer, sub-1.0 quick ratio, and 2.65x leverage."
+SYN-000267,v1_raw,"# Company Snapshot: Global Everbright Store Sdn. Bhd.
+
+**Registration:** SYN-000267 | **Status:** Active | **Type:** Private limited | **Incorporated:** 28 Oct 1990
+**Industry:** Retail (textiles & baju kurung) | **State:** Kuala Lumpur | **Share capital:** RM 500,000
+
+## Key Points
+- **Name change:** Formerly *Sinar Industries Sdn. Bhd.*, renamed 25 Jun 2025 — recent identity change worth verifying.
+- **Ownership:** Highly concentrated — Director 1 holds **89.67%**; Director 2 holds 10.33%. Three directors on board (MD appointed Jan 2024).
+- **Financials (FY2022–FY2024):** Revenue growing (RM 17.7M → 19.4M); unqualified audit opinions each year. Margins thin and slightly declining (net margin ~2.2–2.9%).
+- **Liquidity:** Adequate (quick ratio 1.25–1.49) but **free cash flow negative in FY2023 and FY2024**; cash conversion cycle lengthened to ~94 days (inventory days rising).
+- **Leverage:** Moderate-to-elevated (leverage ratio 0.76–0.84); interest coverage weakening (3.30 → 2.76 → 2.91); **debt service coverage low (1.06–1.44)**.
+- **Litigation:** Six cases, all as **plaintiff** (breach of contract / debt recovery). One pending (RM 177K); others settled, dismissed, or withdrawn. Largest claim (RM 2.26M) settled.
+
+## Vetting Flags
+1. Recent company name change — confirm continuity and any undisclosed rationale.
+2. Negative free cash flow and rising inventory days despite revenue growth.
+3. Low debt service coverage and high ownership concentration (key-person/governance risk).
+4. Frequent litigation as plaintiff — may indicate receivables/collection issues.
+
+**Recommendation:** Proceed to further inspection — request latest management accounts, debt schedule, and clarification on the name change and pending litigation before partnership.",3,contradiction,"Insightful link between rising inventory days and negative FCF, but cites 6 plaintiff cases (1 pending) while v2/v3 cite 5 cases (2 active)."
+SYN-000267,v2_numbers,"**Verdict:** Global Everbright Store Sdn. Bhd. is a Kuala Lumpur retailer of textiles and baju kurung, operating 35.2 years since incorporation, and looks Moderate Risk overall.
+
+- **Financials:** FY2024 revenue was RM19.37M with PAT of RM473,200 (net margin 2.4%, down from 2.9% in FY2022). Free cash flow was negative at -RM189,074 in FY2024, following -RM322,553 in FY2023. Quick ratio was 1.4912 and DSCR 1.3701.
+- **Governance:** Three directors and two shareholders, with director ownership at 100.0%; the top shareholder holds 89.67%. No 2025 board appointments. The company was formerly Sinar Industries Sdn. Bhd., renamed 2025-06-25.
+- **Litigation & Risks:** Five plaintiff cases, two active; defendant claims total RM0. The largest settled claim was RM2,263,800. Audit opinions were unqualified across FY2022–FY2024; no other flags noted.
+- **Next Step:** Verify the reason for the June 2025 name change and confirm the status of the two active plaintiff cases.",5,none,"Decision-ready Moderate Risk call; captures 2 years of negative FCF, tight DSCR (1.37), June 2025 rename, and active plaintiff litigation."
+SYN-000267,v3_flags,"**Verdict:** Global Everbright Store Sdn. Bhd. is a Kuala Lumpur retailer of textiles and baju kurung, operating 35.2 years since incorporation, and looks Moderate Risk overall.
+
+- **Financials:** FY2024 revenue was RM19.37M, up 9.5% from FY2022 (RM17.70M). Net margin is thin and slipped from 2.9% in FY2022 to 2.4% in FY2024 (PAT RM473,200). Free cash flow was negative in FY2024 (-RM189,074), though the quick ratio of 1.49 is healthy.
+- **Governance:** Three directors and two shareholders, with director ownership at 100.0%; the top shareholder holds 89.67%. No 2025 board appointments. The company was formerly Sinar Industries Sdn. Bhd., renamed 2025-06-25.
+- **Litigation & Risks:** Five plaintiff cases, two active; defendant claims are RM0. The largest claim (RM2,263,800) settled. Audit opinions were unqualified across FY2022–FY2024; the negative free cash flow is the main flag.
+- **Next Step:** Verify the reason for the June 2025 name change and confirm the settled RM2,263,800 case closed without residual liability.",3,weak_next_step,"Right Moderate Risk verdict, but omits DSCR (1.37x) and asks about 'residual liability' on a settled plaintiff claim instead of checking active cases."
+SYN-000282,v1_raw,"# Delima Pacific Academy Sdn. Bhd. — Vetting Summary
+
+**Registration:** SYN-000282 | **Status:** Active | **Type:** Private limited company
+**Incorporated:** 1991-06-05 (33+ years) | **State:** Kuala Lumpur
+**Industry:** Education — professional training in accounting & finance
+**Share capital:** MYR 250,000 | **Former names:** None
+
+## Ownership & Control
+- Two individual shareholders, both directors: Director 1 (57.42%), Director 2 (42.58%) — fully owner-managed, no corporate/parent shareholder.
+- Director 2 appointed 1993; Director 1 appointed 2012 (Managing Director).
+
+## Financial Highlights (FYE 31 March)
+| Metric | FY2022 | FY2023 | FY2024 |
+|---|---|---|---|
+| Revenue (MYR) | 25.10M | 26.62M | 27.55M |
+| Gross margin | 53.9% | 51.8% | 52.8% |
+| Net profit (MYR) | 1.39M | 2.03M | 1.87M |
+| Net margin | 5.6% | 7.6% | 6.8% |
+| Operating cash flow (MYR) | 3.19M | 3.39M | 3.79M |
+| Total equity (MYR) | 6.79M | 8.21M | 9.52M |
+| Leverage ratio | 1.49 | 1.18 | 1.02 |
+
+- **Audit:** Unqualified opinion all three years (same firm, Audit Firm 4).
+- **Trends:** Steady revenue growth; margins stable; leverage declining; equity building. FY2024 profit dip driven by higher opex.
+- **Liquidity:** Quick ratio 1.51–1.80; interest coverage 6.7–8.8x; DSCR ~3.2–3.3x — comfortable.
+- **Watch items:** Cash fell from 1.75M to 0.78M (FY2023) before recovering to 1.44M; receivables days high (~86–93) and rising; cash conversion cycle near zero/negative (favourable).
+
+## Risk Flags
+- **Litigation:** None recorded.
+- **Concentration:** Small, closely held ownership — key-person risk on two directors.
+- No adverse audit findings or name changes.
+
+## Recommendation
+**Low-risk profile; suitable for further inspection.** Stable, profitable, cash-generative education business with clean audits and no litigation. Suggested next steps: verify director identities/KYC, confirm receivables collectability and customer concentration, and check regulatory/licensing status for training operations.",5,none,"Comprehensive Low Risk profile; pairs clean audits, declining leverage (1.02), and ~3.3x DSCR with practical KYC and training-license checks."
+SYN-000282,v2_numbers,"**Verdict:** Delima Pacific Academy Sdn. Bhd. is a Kuala Lumpur-based provider of professional accounting and finance training courses, incorporated 1991-06-05 (34.6 years), and looks Low Risk overall.
+
+- **Financials:** FY2024 revenue was RM27.55M with PAT of RM1.87M (net margin 6.8%, down from 7.6% in FY2023); gross margin held at 52.8%. Free cash flow was RM2.03M and the quick ratio 1.8049, with leverage easing to 1.0212 and DSCR 3.3243.
+- **Governance:** Two directors and two shareholders, with directors holding 100.0% of ownership; the top shareholder (an individual, Director 1) holds 57.42%. No 2025 board appointments and no former names on record.
+- **Litigation & Risks:** No litigation at all — 0 cases, RM0 defendant exposure. All three financial years carry unqualified audit opinions; no financial or audit red flags in the digest.
+- **Next Step:** Verify the 57.42% shareholder's identity and confirm the FY2024 audited accounts, since the digest gives no director names beyond ""Director 1.""",5,none,"Decision-ready Low Risk summary with strong cash metrics (RM2.03M FCF, 1.80 quick ratio, 3.32 DSCR) and a direct KYC next step."
+SYN-000282,v3_flags,"**Verdict:** Delima Pacific Academy Sdn. Bhd. is a Kuala Lumpur-based provider of professional accounting and finance training courses, incorporated in 1991 and operating for 34.6 years; overall risk looks Low.
+
+- **Financials:** FY2024 revenue was RM27.55M, up 9.8% from FY2022 (RM25.10M). PAT was RM1.87M with a 6.8% net margin, down from 7.6% in FY2023. FY2024 free cash flow was RM2.03M and the quick ratio was 1.8049.
+- **Governance:** Two directors and two shareholders; director ownership is 100.0%, with the top shareholder (an individual) holding 57.42%. No 2025 board appointments and no former names.
+- **Litigation & Risks:** Clean — 0 court cases and RM0 defendant claim exposure. All three financial years carry unqualified audit opinions, and no red flags were identified.
+- **Next Step:** Verify the 57.42% top shareholder's identity and confirm the two directors' roles, since the digest lists them only as ""Director 1"" and similar placeholders.",5,none,"Clean, accurate Low Risk call that flags anonymized director placeholders for KYC verification while confirming healthy cash generation."
+SYN-000286,v1_raw,"# Company Vetting Summary — Cahaya Seri Catering Sdn. Bhd.
+
+**Registration:** SYN-000286 | **Status:** Active | **Type:** Private limited company
+**Incorporated:** 20 Nov 2017 | **State:** Sabah | **Industry:** Food & Beverage
+**Nature of business:** Wholesale distribution of frozen food to restaurants
+**Share capital:** RM 500,000 | **Former names:** None
+
+## Ownership & Management
+- **Director 1** – Managing Director (since 2019); holds **98.86%**
+- **Director 2** – Executive Director (since 2019); holds **1.14%**
+- **Director 3** – Independent Director (appointed Dec 2024)
+- Highly concentrated ownership (two individuals hold 100%); no corporate shareholders.
+
+## Financials (FY2022 vs FY2024, both **Unqualified** audit opinions)
+| Metric | FY2022 | FY2024 |
+|---|---|---|
+| Revenue | RM 4.21M | RM 4.42M |
+| Gross margin | 49.8% | 50.3% |
+| Net profit | RM 173k | RM 179k |
+| Net margin | 4.1% | 4.1% |
+| Operating cash flow | RM 434k | RM 220k |
+| Free cash flow | RM 171k | **–RM 20k** |
+| Leverage ratio | 1.68 | 1.45 |
+| Interest coverage | 3.04x | 3.01x |
+| Debt service coverage | 1.28x | 1.35x |
+
+**Observations:** Stable revenue and margins; profitability thin (~4% net). Cash flow weakened notably in FY2024 (FCF turned negative). Leverage is moderate but debt-service coverage is tight (~1.3x). Cash conversion cycle ~137–142 days (receivables ~80 days, inventory ~88 days).
+
+## Litigation — ⚠️ Key Risk
+Six cases, **all as defendant**:
+- **Winding-up petition** (High Court, 2022) — **Pending**, RM 355,900
+- **Debt recovery** (2024) — **Judgment entered**, RM 97,600
+- **Tenancy dispute** (2022) — **Pending**, RM 110,600
+- Employment claim (2023) — Settled, RM 231,100
+- Construction dispute (2024) — Settled, RM 68,900
+- Tenancy dispute (2022) — Dismissed, RM 28,400
+
+## Vetting Recommendation
+**Flag for further inspection.** The company is active, audited with clean opinions, and shows stable top-line performance. However, the **pending winding-up petition**, an **unpaid judgment debt**, and **deteriorating free cash flow** warrant closer due diligence before any procurement or partnership commitment. Recommend verifying the status/resolution of the winding-up petition and judgment, and requesting current management accounts.",4,risk_label_off,"Breaks down all 6 defendant cases and long CCC (~137–142d), but omits a formal Elevated/High Risk tier despite an active winding-up petition."
+SYN-000286,v2_numbers,"**Verdict:** Cahaya Seri Catering Sdn. Bhd. is a Sabah-based wholesale distributor of frozen food to restaurants, trading for 8.1 years, and it screens as Elevated Risk given persistent defendant-side litigation including a pending winding-up petition.
+
+- **Financials:** Latest FY2024 revenue was RM4.42M with PAT of RM178,923 (4.0% net margin, down slightly from 4.1% in FY2022); gross margin improved to 50.3%. Free cash flow turned negative at -RM20,288 in FY2024 versus RM171,072 in FY2022, though the quick ratio strengthened to 1.403 and DSCR is 1.3511.
+- **Governance:** Three directors and two shareholders, with directors holding 100.0% of ownership; the top shareholder (an individual) holds 98.86%. No 2025 board appointments and no former names on record.
+- **Litigation & Risks:** Six defendant cases totalling RM892,500 in claims, three still active — including a pending High Court winding-up petition (CASE-2022-9003, RM355,900) and a tenancy dispute (RM110,600). A debt-recovery judgment (RM97,600) is already entered. Audit opinions were unqualified in both years.
+- **Next Step:** Verify the current status and any settlement of the pending winding-up petition, and confirm whether the judgment debt has been satisfied.",5,none,"Decision-ready Elevated Risk call; quantifies RM892,500 in defendant claims, cites CASE-2022-9003, and checks both winding-up and judgment debt."
+SYN-000286,v3_flags,"**Verdict:** Cahaya Seri Catering Sdn. Bhd. is a Sabah-based frozen-food wholesaler to restaurants, operating 8.1 years since its November 2017 incorporation, and looks Elevated Risk given persistent defendant-side litigation.
+
+- **Financials:** FY2024 revenue was RM4.42M (up 5.1% from RM4.21M in FY2022), with PAT of RM178,923 and net margin easing from 4.1% to 4.0%; gross margin held at 50.3%. Liquidity is sound (quick ratio 1.40), but free cash flow turned negative at -RM20,288 in FY2024.
+- **Governance:** Three directors and two shareholders, with directors holding 100.0% of ownership; the top shareholder (an individual) holds 98.86%. No 2025 board appointments and no former names on record.
+- **Litigation & Risks:** Six defendant cases totalling RM892,500, three still active, including a pending High Court winding-up petition (RM355,900) and a judgment-entered debt recovery (RM97,600). Both audited years were unqualified.
+- **Next Step:** Verify the current status and any settlement of the pending winding-up petition (CASE-2022-9003) before proceeding.",5,none,"Sharp, accurate Elevated Risk verdict highlighting the active High Court winding-up petition, entered judgment, negative FCF swing, and 98.86% control."
+SYN-000302,v1_raw,"# Company Snapshot: Global Pacific Perunding Sdn. Bhd.
+
+**Registration:** SYN-000302 | **Status:** Active | **Type:** Private limited company
+**Incorporated:** 2014-01-15 | **State:** Perak | **Industry:** Professional Services
+**Nature of business:** Management consulting for SMEs | **Share capital:** MYR 500,000
+**Former names:** None
+
+## Key Relationships
+- **Directors (3):** Managing Director (since 2021), Director (since 2024), Executive Director (since 2018)
+- **Shareholders:** Director 2 holds **58.7%** (majority), Director 3 holds 29.76%, Director 1 holds 11.54%
+- All shareholders are individuals and also directors — ownership is concentrated in management.
+
+## Financials & Litigation
+- **Financial records:** None provided
+- **Litigation:** No cases on record
+
+## Vetting Flags
+- **Ownership concentration:** One individual controls ~59% — governance/control risk to assess.
+- **Recent board change:** New director appointed May 2024 — verify current management stability.
+- **No financial data:** Unable to assess solvency or scale; request financials before proceeding.
+- **Clean litigation record** (as reported).
+
+**Recommendation:** Low-risk profile on paper, but **inspect further** — prioritize obtaining financial statements and confirming the role/authority of the majority shareholder-director.",2,data_gap_handled_poorly,"Assigns a 'Low-risk profile on paper' despite zero financial statements on file, masking unverified solvency behind a clean court search."
+SYN-000302,v2_numbers,"**Verdict:** Global Pacific Perunding Sdn. Bhd. is a Perak-based private limited company providing management consulting for SMEs, incorporated 15 January 2014 and operating 12.0 years; on the available data it screens as Low Risk, though the file is thin.
+
+- **Financials:** No financial trajectory data is available — no revenue, profitability, margin trend, cash flow or liquidity figures were supplied, so financial health cannot be assessed from this digest.
+- **Governance:** Three directors and three shareholders, with director ownership at 100.0%. Top shareholder is Director 2 (individual) at 58.7%, a controlling stake. No 2025 board appointments and no former names on record.
+- **Litigation & Risks:** Clean — 0 total cases (0 defendant, 0 plaintiff, 0 active), with total defendant claim exposure of RM0. No financial or audit red flags are noted, but this reflects absence of data rather than verified cleanliness.
+- **Next Step:** Obtain the last two to three years of audited financial statements (revenue, margins, cash position) to confirm the Low Risk view before onboarding.",2,data_gap_handled_poorly,"Notes that clean flags reflect 'absence of data rather than verified cleanliness,' yet still awards a Low Risk verdict with zero financial records."
+SYN-000302,v3_flags,"**Verdict:** Global Pacific Perunding Sdn. Bhd. is a Perak-based private limited company providing management consulting for SMEs, incorporated 15 January 2014 and operating 12.0 years; overall risk is Elevated Risk given the absence of any financial data.
+
+- **Financials:** No financial statements are available in the record, and the financial trajectory is empty, so revenue, profitability, margin trend, cash flow and liquidity cannot be assessed. Share capital is RM500,000. Treat financial standing as unverified rather than sound.
+- **Governance:** Three directors and three shareholders, with director ownership at 100.0% — fully insider-controlled. The top shareholder is an individual, Director 2, holding 58.7%. No 2025 board appointments and no former names on record.
+- **Litigation & Risks:** Clean litigation record: 0 court cases, 0 defendant cases, 0 plaintiff cases, 0 active cases, with total defendant claim exposure of RM0. The principal red flag is the missing financial statements; no audit issues are noted.
+- **Next Step:** Obtain the last two to three years of audited financial statements and confirm the current SSM filing status before any engagement.",5,none,"Handles the missing-data gap properly by elevating risk to Elevated Risk and asking for audited financials plus SSM filing status."
+SYN-000333,v1_raw,"# Company Summary: Gemilang Harmoni Enterprise Sdn. Bhd.
+
+**Registration:** SYN-000333 | **Status:** Active | **Type:** Private limited company
+**Incorporated:** 21 Oct 1997 | **State:** Sarawak | **Industry:** Retail
+**Nature of Business:** Retail of textiles and baju kurung
+**Share Capital:** MYR 5,000,000
+
+## Key Observations
+- **Recent name change:** Formerly *Unity Industries Sdn. Bhd.*, renamed 3 Sep 2025 — recent rebranding warrants verification of continuity and any related-party implications.
+- **Ownership:** 100% held by the three directors (45.57% / 29.41% / 25.02%) — no external/corporate shareholders.
+- **Directors:** Three directors; longest-serving since 2010, most recent appointed Jan 2023. Stable, owner-managed structure.
+- **Financials:** No financial data on record.
+- **Litigation:** No cases on record.
+
+## Vetting Flags
+- ⚠️ No financial statements available — cannot assess solvency or scale.
+- ⚠️ Recent name change (Sep 2025) — recommend confirming reason and checking history under former name.
+- ✅ No litigation disclosed; long operating history (~28 years); active status.
+
+**Recommendation:** Proceed to further inspection, prioritizing financial verification and due diligence on the 2025 name change.",4,risk_label_off,"Flags both missing financials and the Sep 2025 rename from Unity Industries Sdn. Bhd., but lacks a clear Elevated Risk verdict."
+SYN-000333,v2_numbers,"**Verdict:** Gemilang Harmoni Enterprise Sdn. Bhd. is a Sarawak-based retailer of textiles and baju kurung, incorporated 21 October 1997 and operating 28.2 years, and on the digest it screens as Low Risk.
+
+- **Financials:** No financial trajectory data is provided — no revenue, profitability, margin trend, cash flow or liquidity figures are available, so financial health cannot be assessed from this digest.
+- **Governance:** Three directors and three shareholders, with directors holding 100.0% of ownership; the top shareholder is an individual (Director 2) at 45.57%. No 2025 board appointments were recorded. The company was formerly named Unity Industries Sdn. Bhd., changed on 3 September 2025.
+- **Litigation & Risks:** Clean — 0 total cases (0 defendant, 0 plaintiff, 0 active), with total defendant claim exposure of RM0. No financial or audit red flags appear in the digest.
+- **Next Step:** Obtain and review the last two to three years of audited financial statements to fill the financial data gap, and confirm the reason for the September 2025 name change.",2,data_gap_handled_poorly,"Assigns Low Risk despite zero financial statements on file and a recent Sep 2025 name change, treating missing data as clean."
+SYN-000333,v3_flags,"**Verdict:** Gemilang Harmoni Enterprise Sdn. Bhd. is a Sarawak-based retailer of textiles and baju kurung, incorporated 21 October 1997 and operating 28.2 years, but with no financial data on file it screens as Elevated Risk pending financials.
+
+- **Financials:** No financial years are recorded in the digest, so revenue, profitability, margin trend, cash flow and liquidity cannot be assessed. Share capital is RM5.00M. The absence of any financial statements is itself a red flag.
+- **Governance:** Three directors and three shareholders, with director ownership at 100.0%. The top shareholder is an individual, ""Director 2"", holding 45.57%. No 2025 board appointments were recorded. The company was formerly named Unity Industries Sdn. Bhd., changed on 3 September 2025.
+- **Litigation & Risks:** Clean litigation record: 0 court cases, 0 defendant and 0 plaintiff cases, with total defendant claim exposure of RM0. The only recorded red flag is the missing financial statements.
+- **Next Step:** Obtain and review the last two to three years of audited or filed financial statements, and clarify the reason for the September 2025 name change.",5,none,"Correctly treats missing financial statements as an Elevated Risk red flag while noting RM5.00M share capital and the Sep 2025 name change."
+SYN-000381,v1_raw,"# Company Summary: Cahaya Harmoni Hotel Sdn. Bhd.
+
+**Registration:** SYN-000381 | **Status:** Active | **Type:** Private Limited | **Incorporated:** 17 Oct 1995
+**Industry:** Hospitality | **State:** Kedah | **Share Capital:** MYR 1,000,000
+
+## Business
+Boutique hotel operator (Kota Kinabalu). No former names on record.
+
+## Ownership & Control
+- **Gemilang Holdings Sdn. Bhd.** — 51% (corporate majority)
+- **Director 1** — 24.89% (Managing Director, since 1996)
+- **Director 2** — 24.11% (Executive Director, since 1999)
+- Stable, founder-led structure with no recent leadership changes.
+
+## Financial Trend (FY2022–FY2024)
+| Metric | 2022 | 2023 | 2024 |
+|---|---|---|---|
+| Revenue (MYR) | 8.99M | 12.04M | 16.44M |
+| Gross margin | 63.0% | 55.6% | 63.3% |
+| Net profit (MYR) | 465K | 854K | 975K |
+| Net margin | 5.2% | 7.1% | 5.9% |
+| Total equity (MYR) | 5.62M | 6.22M | 6.91M |
+| Leverage ratio | 0.78 | 1.15 | 1.65 |
+
+- **Growth:** Revenue up ~83% over two years; profit rising steadily.
+- **Audit:** Unqualified opinions all three years (Audit Firm 6).
+- **Liquidity:** Quick ratio declining (2.16 → 1.36); cash ratio 0.40 in FY2024.
+- **Leverage:** Rising notably (0.78 → 1.65); borrowings up to MYR 5.99M. Interest coverage remains adequate (~4.9x).
+- **Working capital:** Cash conversion cycle ~130 days; DSO ~80 days (receivables-heavy).
+
+## Litigation
+No cases on record.
+
+## Vetting Flags
+- **Leverage trend** — debt rising faster than equity; worth stress-testing.
+- **Liquidity tightening** — quick/cash ratios trending down.
+- **Receivables** — elevated DSO (~80 days) may warrant credit-risk review.
+- **Data inconsistency** — registered state is Kedah but business described in Kota Kinabalu (Sabah); confirm operating location.
+
+**Recommendation:** Financially growing and audit-clean, but the rising leverage and tightening liquidity justify a closer inspection before partnership/procurement commitment.",4,risk_label_off,"Catches the 51% corporate parent, rising leverage (0.78 to 1.65), ~80d DSO, and Kedah vs. Kota Kinabalu mismatch, but lacks a formal risk tier."
+SYN-000381,v2_numbers,"**Verdict:** Cahaya Harmoni Hotel Sdn. Bhd. is a 30.2-year-old Kedah-incorporated private limited company operating a boutique hotel in Kota Kinabalu; overall risk looks Moderate.
+
+- **Financials:** FY2024 revenue was RM16.44M with PAT of RM975,406 (net margin 5.9%, down from 7.1% in FY2023). Free cash flow improved to RM789,589, but the quick ratio fell to 1.3575 and leverage rose to 1.6492 across the three years.
+- **Governance:** Two directors and three shareholders; 49.0% director ownership, with Gemilang Holdings Sdn. Bhd. holding 51.0%. No 2025 board appointments and no former names.
+- **Litigation & Risks:** No litigation — 0 cases and RM0 defendant exposure. All three years carry Unqualified audit opinions; no financial or audit red flags in the digest.
+- **Next Step:** Verify the operational link between the Kedah registration and the Kota Kinabalu hotel, and confirm Gemilang Holdings' beneficial ownership.",5,none,"Decision-ready Moderate Risk summary that pairs positive FCF (RM789.6k) and rising leverage (1.65) with parent-UBO and location checks."
+SYN-000381,v3_flags,"**Verdict:** Cahaya Harmoni Hotel Sdn. Bhd. is a Kedah-incorporated boutique hotel operator (business described as Kota Kinabalu-based) trading for 30.2 years; overall risk looks Moderate.
+
+- **Financials:** FY2024 revenue was RM16.44M with PAT of RM975,406 and a 5.9% net margin, down from 7.1% in FY2023 despite revenue growth. Free cash flow improved to RM789,589, but the quick ratio fell to 1.3575 and leverage rose to 1.6492.
+- **Governance:** Two directors and three shareholders; Gemilang Holdings Sdn. Bhd. holds 51.0% and director ownership is 49.0%. No 2025 board appointments and no former names.
+- **Litigation & Risks:** Clean — 0 cases and RM0 defendant exposure. All three years carry unqualified audit opinions; no red flags noted.
+- **Next Step:** Verify the registered business address and operating location, since the digest lists Kedah incorporation but a Kota Kinabalu hotel.",3,weak_next_step,"Accurate Moderate Risk verdict and numbers, but Next Step checks only the Kedah/Kota Kinabalu address mismatch and ignores the 51% parent UBO."
+SYN-000397,v1_raw,"# Company Vetting Summary — Pacific Pacific Education Sdn. Bhd.
+
+**Registration:** SYN-000397 | **Status:** Active | **Type:** Private limited company
+**Incorporated:** 2006-05-11 | **State:** Selangor | **Industry:** Education
+**Nature of business:** Tuition centre (primary & secondary students)
+**Share capital:** RM 2,500,000 | **Former names:** None
+
+## Ownership & Control
+- **4 directors**, all also shareholders — fully owner-managed, no external corporate shareholders.
+- **Director 1** (Managing Director): 49.67% — largest holder.
+- **Director 4** (Executive Director, appointed 2023): 33.46%.
+- **Director 2:** 14.89% | **Director 3:** 1.98%.
+- No single controlling (>50%) shareholder; key-person concentration in Director 1.
+
+## Financials (FY2022 → FY2024)
+| Metric | FY2022 | FY2024 | Trend |
+|---|---|---|---|
+| Revenue | 6.45M | 6.86M | ▲ |
+| Gross margin | 48.6% | 48.4% | Flat |
+| Operating profit | 629K | 572K | ▼ |
+| Net profit | 418K | 371K | ▼ |
+| Total equity | 1.78M | 2.37M | ▲ |
+| Leverage ratio | 1.44 | 0.95 | Improving |
+| Quick ratio | 1.96 | 2.55 | Strong |
+
+- **Audit:** Unqualified opinion both years (Audit Firm 2).
+- **Profitability:** Margins compressing slightly; net margin ~5–6%.
+- **Liquidity:** Healthy; cash ratio improved to 0.59.
+- **Cash flow:** Operating cash flow positive but fell (942K → 574K); free cash flow dropped sharply (730K → 190K) on higher capex.
+- **Efficiency:** Long receivables (~99 days DSO) — watch collections.
+- **Debt:** Interest coverage ~6.8x, DSCR ~2.5x — serviceable.
+
+## Litigation (all as defendant)
+- **5 cases**, several recurring themes (tenancy, construction, debt).
+- **Debt recovery — RM 7.43M, High Court, filed Nov 2025 — ""Settled.""** This claim exceeds annual revenue; settlement terms unknown — **material flag**.
+- **Pending:** Tenancy dispute (RM 320K) and breach of contract (RM 458K).
+- **Judgments entered:** Construction (RM 58.6K) and tenancy (RM 721K).
+- One case dismissed.
+
+## Vetting Recommendation
+**Inspect further — with caution.** Fundamentals are stable (active, audited, profitable, improving leverage), but the following warrant deeper review before partnership/procurement:
+1. **RM 7.43M debt-recovery claim** (settled) — confirm settlement terms and any residual liability.
+2. **Two pending disputes** (~RM 778K combined) and prior judgments — assess litigation risk and payment behavior.
+3. **Declining profit and free cash flow** despite revenue growth — review cost drivers and capex plans.
+4. **Receivables at ~99 days** — verify collection practices and counterparty credit exposure.
+5. **Owner-managed concentration** — confirm governance and succession arrangements.",3,contradiction,"Strong insight noting the RM7.43M claim exceeds annual revenue, but counts 5 defendant cases (2 pending, 2 judgments, 1 dismissed) vs. 6 in v2/v3."
+SYN-000397,v2_numbers,"**Verdict:** Pacific Pacific Education Sdn. Bhd. is a Selangor-based tuition centre for primary and secondary students, incorporated 11 May 2006 and operating 19.6 years; overall risk looks Elevated Risk given the litigation profile.
+
+- **Financials:** FY2024 revenue was RM6.86M (up from RM6.45M in FY2022), but PAT fell to RM371,117 and net margin narrowed to 5.4% from 6.5%. Liquidity is sound (quick ratio 2.5487) and leverage improved to 0.9456, though free cash flow dropped to RM189,576 from RM730,401. No FY2023 figures are in the digest.
+- **Governance:** Four directors and four shareholders, with directors holding 100.0% of ownership; the top shareholder is an individual at 49.67%. No 2025 board appointments and no former names.
+- **Litigation & Risks:** Six defendant cases, four active, with total defendant claims of RM9.54M — well above annual revenue. A RM7,427,000 debt-recovery claim (High Court, filed 2025-11-03) is marked Settled; RM320,300 and RM458,400 claims remain Pending. Audit opinions were Unqualified in both years; no other financial or audit red flags noted.
+- **Next Step:** Obtain proof of settlement and payment terms for CASE-2025-5402, and confirm whether any residual liability remains.",5,none,"Decision-ready Elevated Risk call; flags RM9.54M defendant exposure exceeding annual revenue, cites CASE-2025-5402, and notes missing FY2023 data."
+SYN-000397,v3_flags,"**Verdict:** Pacific Pacific Education Sdn. Bhd. is a Selangor-based tuition centre for primary and secondary students, operating 19.6 years since its 2006 incorporation, and looks Elevated Risk overall given its litigation profile.
+
+- **Financials:** FY2024 revenue was RM6.86M, up 6.4% from FY2022 (RM6.45M), but net margin slipped from 6.5% to 5.4% (PAT RM371,117). Liquidity is healthy (quick ratio 2.55) though free cash flow fell to RM189,576 from RM730,401.
+- **Governance:** Four directors and four shareholders, with directors holding 100.0% of ownership; the top shareholder holds 49.67%. No 2025 board appointments and no former names on record.
+- **Litigation & Risks:** Defendant in 6 cases totaling RM9.54M, 4 still active—including a settled RM7,427,000 debt-recovery claim and a pending RM320,300 tenancy dispute. Audit opinions were unqualified in both years; no other financial or audit flags noted.
+- **Next Step:** Obtain the settlement terms and payment status of the RM7,427,000 debt-recovery case, and confirm whether any residual liability remains.",5,none,"Crisp Elevated Risk summary that surfaces the RM9.54M total defendant claims, settled RM7.43M suit, pending disputes, and FCF drop cleanly."

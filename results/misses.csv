@@ -1,0 +1,95 @@
+version,registrationNumber,missed_item
+v1_raw,SYN-000029,Steady revenue growth from RM5.13M (2022) to RM5.35M (2024)
+v1_raw,SYN-000067,Declining revenue from RM49.47M (2022) to RM43.29M (2024)
+v1_raw,SYN-000067,"Worsening net losses every year, reaching -RM7.52M in 2024"
+v1_raw,SYN-000148,Revenue dropped from RM5.53M (2022) to RM4.84M (2024)
+v1_raw,SYN-000165,"Strong revenue growth, nearly doubling from RM10.87M (2022) to RM21.52M (2024)"
+v1_raw,SYN-000165,Net profit more than doubled from RM431k to RM914k
+v1_raw,SYN-000217,Strong revenue growth from RM2.98M (2022) to RM5.61M (2024)
+v1_raw,SYN-000267,Steady revenue growth from RM17.70M (2022) to RM19.37M (2024)
+v1_raw,SYN-000267,Consistent profitability around RM406k-519k per year and solid net working capital (RM5.36M)
+v1_raw,SYN-000282,Revenue grew steadily from RM25.10M (2022) to RM27.55M (2024)
+v1_raw,SYN-000282,Strong net profit (RM1.87M in 2024) and robust free cash flow (RM2.03M)
+v1_raw,SYN-000282,"Improving leverage ratio, down from 1.49x to 1.02x"
+v1_raw,SYN-000286,Missing FY2023 financial statements (only 2022 and 2024 reported)
+v1_raw,SYN-000286,Modest revenue growth from RM4.21M (2022) to RM4.42M (2024) with steady ~RM179k net profit
+v1_raw,SYN-000286,"Heavy defendant litigation history (6 cases), including an active winding-up petition (RM355.9k) and a judgment entered (RM97.6k)"
+v1_raw,SYN-000381,Strong revenue growth from RM8.99M (2022) to RM16.44M (2024)
+v1_raw,SYN-000381,Net profit more than doubled from RM465k to RM975k with positive free cash flow
+v1_raw,SYN-000397,Missing FY2023 financial data (only 2022 and 2024 available)
+v1_raw,SYN-000397,"Heavy defendant litigation history (6 cases), including a settled RM7.43M debt recovery claim, two judgments entered, and two pending suits"
+v1_raw,SYN-000451,Declining revenue (RM2.32M to RM2.08M) and widening losses (-RM276k in 2024)
+v1_raw,SYN-000451,"Two closed litigation cases (one plaintiff settled, one defendant dismissed)"
+v1_raw,SYN-000476,Wholly-owned subsidiary (100%) of Sejahtera Holdings Sdn. Bhd. (SYN-009086)
+v1_raw,SYN-000476,Sharp revenue decline from RM37.58M (2022) to RM24.21M (2024)
+v1_raw,SYN-000476,Net profit fell nearly 88% from RM2.23M to RM269k as margins compressed
+v1_raw,SYN-000476,Still maintains strong net working capital (RM6.50M) and low leverage (0.60x)
+v1_raw,SYN-000510,Revenue declined steadily from RM6.60M (2022) to RM4.37M (2024)
+v1_raw,SYN-000510,Net profit shrank from RM229k to near break-even (RM35.6k) in 2024
+v1_raw,SYN-000510,Very low leverage (0.14x) and strong liquidity (cash ratio 1.36x)
+v2_numbers,SYN-000029,Steady revenue growth from RM5.13M (2022) to RM5.35M (2024)
+v2_numbers,SYN-000029,Modest but consistent net profit around RM97k-114k per year
+v2_numbers,SYN-000029,Director 4 holds majority stake (58.25%)
+v2_numbers,SYN-000067,"Worsening net losses every year, reaching -RM7.52M in 2024"
+v2_numbers,SYN-000067,Net working capital turned negative (-RM4.23M) in 2024 as leverage climbed to 2.56x
+v2_numbers,SYN-000148,"Widening net losses each year, hitting -RM1.08M in 2024"
+v2_numbers,SYN-000148,Director 4 holds a 75.61% majority stake
+v2_numbers,SYN-000165,"Strong revenue growth, nearly doubling from RM10.87M (2022) to RM21.52M (2024)"
+v2_numbers,SYN-000165,Net profit more than doubled from RM431k to RM914k
+v2_numbers,SYN-000165,"Positive operating and free cash flows, though net working capital dipped slightly negative in 2024"
+v2_numbers,SYN-000217,Strong revenue growth from RM2.98M (2022) to RM5.61M (2024)
+v2_numbers,SYN-000217,"Growing net profit, reaching RM386k in 2024 with healthy operating cash flow"
+v2_numbers,SYN-000217,High leverage (2.65x) and slightly negative net working capital (-RM87k) in 2024
+v2_numbers,SYN-000267,Steady revenue growth from RM17.70M (2022) to RM19.37M (2024)
+v2_numbers,SYN-000267,Consistent profitability around RM406k-519k per year and solid net working capital (RM5.36M)
+v2_numbers,SYN-000267,"Involved in 5 litigation cases as plaintiff, including one pending breach of contract suit (RM177k)"
+v2_numbers,SYN-000282,Revenue grew steadily from RM25.10M (2022) to RM27.55M (2024)
+v2_numbers,SYN-000282,Strong net profit (RM1.87M in 2024) and robust free cash flow (RM2.03M)
+v2_numbers,SYN-000282,"Improving leverage ratio, down from 1.49x to 1.02x"
+v2_numbers,SYN-000286,Missing FY2023 financial statements (only 2022 and 2024 reported)
+v2_numbers,SYN-000286,Modest revenue growth from RM4.21M (2022) to RM4.42M (2024) with steady ~RM179k net profit
+v2_numbers,SYN-000381,51% owned by Gemilang Holdings Sdn. Bhd. (SYN-009757)
+v2_numbers,SYN-000381,Strong revenue growth from RM8.99M (2022) to RM16.44M (2024)
+v2_numbers,SYN-000381,Net profit more than doubled from RM465k to RM975k with positive free cash flow
+v2_numbers,SYN-000397,Missing FY2023 financial data (only 2022 and 2024 available)
+v2_numbers,SYN-000397,"Heavy defendant litigation history (6 cases), including a settled RM7.43M debt recovery claim, two judgments entered, and two pending suits"
+v2_numbers,SYN-000451,Declining revenue (RM2.32M to RM2.08M) and widening losses (-RM276k in 2024)
+v2_numbers,SYN-000451,"Two closed litigation cases (one plaintiff settled, one defendant dismissed)"
+v2_numbers,SYN-000476,Net profit fell nearly 88% from RM2.23M to RM269k as margins compressed
+v2_numbers,SYN-000476,Still maintains strong net working capital (RM6.50M) and low leverage (0.60x)
+v2_numbers,SYN-000510,Revenue declined steadily from RM6.60M (2022) to RM4.37M (2024)
+v2_numbers,SYN-000510,Net profit shrank from RM229k to near break-even (RM35.6k) in 2024
+v2_numbers,SYN-000510,Very low leverage (0.14x) and strong liquidity (cash ratio 1.36x)
+v3_flags,SYN-000029,Steady revenue growth from RM5.13M (2022) to RM5.35M (2024)
+v3_flags,SYN-000029,Modest but consistent net profit around RM97k-114k per year
+v3_flags,SYN-000029,Director 4 holds majority stake (58.25%)
+v3_flags,SYN-000067,"Worsening net losses every year, reaching -RM7.52M in 2024"
+v3_flags,SYN-000067,Net working capital turned negative (-RM4.23M) in 2024 as leverage climbed to 2.56x
+v3_flags,SYN-000148,"Widening net losses each year, hitting -RM1.08M in 2024"
+v3_flags,SYN-000165,"Strong revenue growth, nearly doubling from RM10.87M (2022) to RM21.52M (2024)"
+v3_flags,SYN-000165,Net profit more than doubled from RM431k to RM914k
+v3_flags,SYN-000165,"Positive operating and free cash flows, though net working capital dipped slightly negative in 2024"
+v3_flags,SYN-000217,Strong revenue growth from RM2.98M (2022) to RM5.61M (2024)
+v3_flags,SYN-000217,"Growing net profit, reaching RM386k in 2024 with healthy operating cash flow"
+v3_flags,SYN-000217,High leverage (2.65x) and slightly negative net working capital (-RM87k) in 2024
+v3_flags,SYN-000267,Steady revenue growth from RM17.70M (2022) to RM19.37M (2024)
+v3_flags,SYN-000267,Consistent profitability around RM406k-519k per year and solid net working capital (RM5.36M)
+v3_flags,SYN-000267,"Involved in 5 litigation cases as plaintiff, including one pending breach of contract suit (RM177k)"
+v3_flags,SYN-000282,Revenue grew steadily from RM25.10M (2022) to RM27.55M (2024)
+v3_flags,SYN-000282,Strong net profit (RM1.87M in 2024) and robust free cash flow (RM2.03M)
+v3_flags,SYN-000282,"Improving leverage ratio, down from 1.49x to 1.02x"
+v3_flags,SYN-000286,Missing FY2023 financial statements (only 2022 and 2024 reported)
+v3_flags,SYN-000286,Modest revenue growth from RM4.21M (2022) to RM4.42M (2024) with steady ~RM179k net profit
+v3_flags,SYN-000381,51% owned by Gemilang Holdings Sdn. Bhd. (SYN-009757)
+v3_flags,SYN-000381,Strong revenue growth from RM8.99M (2022) to RM16.44M (2024)
+v3_flags,SYN-000381,Net profit more than doubled from RM465k to RM975k with positive free cash flow
+v3_flags,SYN-000397,Missing FY2023 financial data (only 2022 and 2024 available)
+v3_flags,SYN-000397,"Heavy defendant litigation history (6 cases), including a settled RM7.43M debt recovery claim, two judgments entered, and two pending suits"
+v3_flags,SYN-000451,Declining revenue (RM2.32M to RM2.08M) and widening losses (-RM276k in 2024)
+v3_flags,SYN-000451,Technically insolvent in 2024 with negative total equity (-RM18.5k) and negative working capital
+v3_flags,SYN-000476,Wholly-owned subsidiary (100%) of Sejahtera Holdings Sdn. Bhd. (SYN-009086)
+v3_flags,SYN-000476,Net profit fell nearly 88% from RM2.23M to RM269k as margins compressed
+v3_flags,SYN-000476,Still maintains strong net working capital (RM6.50M) and low leverage (0.60x)
+v3_flags,SYN-000510,Revenue declined steadily from RM6.60M (2022) to RM4.37M (2024)
+v3_flags,SYN-000510,Net profit shrank from RM229k to near break-even (RM35.6k) in 2024
+v3_flags,SYN-000510,Very low leverage (0.14x) and strong liquidity (cash ratio 1.36x)

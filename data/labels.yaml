@@ -1,0 +1,137 @@
+# must_mention: short plain-English facts a good summary needs
+# notes: my own comments
+SYN-000029:
+  must_mention:
+    - "Retailer of textiles and baju kurung based in Selangor"
+    - "Steady revenue growth from RM5.13M (2022) to RM5.35M (2024)"
+    - "Modest but consistent net profit around RM97k-114k per year"
+    - "Negative free cash flow across all three years due to capex"
+    - "Director 4 holds majority stake (58.25%)"
+    - "No litigation cases"
+  notes: "Very stable small retail business, thin net margins (~1.8-2.2%) but clean audit and zero legal issues."
+
+SYN-000067:
+  must_mention:
+    - "KL-based travel agency focusing on umrah and inbound tourism"
+    - "Declining revenue from RM49.47M (2022) to RM43.29M (2024)"
+    - "Worsening net losses every year, reaching -RM7.52M in 2024"
+    - "Negative operating and free cash flows across all three years"
+    - "Net working capital turned negative (-RM4.23M) in 2024 as leverage climbed to 2.56x"
+  notes: "High risk — bleeding cash and equity fast, short-term liabilities now exceed current assets."
+
+SYN-000148:
+  must_mention:
+    - "Community pharmacy and health supplements business in Kelantan"
+    - "Revenue dropped from RM5.53M (2022) to RM4.84M (2024)"
+    - "Widening net losses each year, hitting -RM1.08M in 2024"
+    - "Negative operating cash flow and negative net working capital in 2023-2024"
+    - "Director 4 holds a 75.61% majority stake"
+  notes: "Despite improving gross margins, rising opex is killing profitability and draining liquidity."
+
+SYN-000165:
+  must_mention:
+    - "Logistics company registered in Pulau Pinang doing last-mile parcel delivery in Kuching"
+    - "Strong revenue growth, nearly doubling from RM10.87M (2022) to RM21.52M (2024)"
+    - "Net profit more than doubled from RM431k to RM914k"
+    - "Positive operating and free cash flows, though net working capital dipped slightly negative in 2024"
+    - "Director 5 owns 98.34% of shares"
+    - "One settled debt recovery suit (RM169.8k) as plaintiff"
+  notes: "Fast-growing courier operation, though rapid expansion pushed leverage up to 1.62x and tightened short-term liquidity."
+
+SYN-000217:
+  must_mention:
+    - "Private kindergarten and childcare operator in Johor Bahru (registered in Selangor)"
+    - "Strong revenue growth from RM2.98M (2022) to RM5.61M (2024)"
+    - "Growing net profit, reaching RM386k in 2024 with healthy operating cash flow"
+    - "Received a Disclaimer of Opinion from auditors in FY2023, returning to Unqualified in FY2024"
+    - "High leverage (2.65x) and slightly negative net working capital (-RM87k) in 2024"
+  notes: "Operational performance looks great, but the 2023 audit disclaimer and rising debt load are worth flagging."
+
+SYN-000267:
+  must_mention:
+    - "KL textile and baju kurung retailer, formerly Sinar Industries Sdn. Bhd. until June 2025"
+    - "Steady revenue growth from RM17.70M (2022) to RM19.37M (2024)"
+    - "Consistent profitability around RM406k-519k per year and solid net working capital (RM5.36M)"
+    - "Director 1 holds 89.67% majority ownership"
+    - "Involved in 5 litigation cases as plaintiff, including one pending breach of contract suit (RM177k)"
+  notes: "Solid balance sheet and steady retail sales; all lawsuits are cases where they are suing others."
+
+SYN-000282:
+  must_mention:
+    - "KL-based accounting and finance professional training academy"
+    - "Revenue grew steadily from RM25.10M (2022) to RM27.55M (2024)"
+    - "Strong net profit (RM1.87M in 2024) and robust free cash flow (RM2.03M)"
+    - "Improving leverage ratio, down from 1.49x to 1.02x"
+    - "No litigation cases"
+  notes: "Very healthy cash-generative business with clean audits and zero legal disputes."
+
+SYN-000286:
+  must_mention:
+    - "Sabah wholesale frozen food distributor for restaurants"
+    - "Missing FY2023 financial statements (only 2022 and 2024 reported)"
+    - "Modest revenue growth from RM4.21M (2022) to RM4.42M (2024) with steady ~RM179k net profit"
+    - "Director 1 owns 98.86% of shares"
+    - "Heavy defendant litigation history (6 cases), including an active winding-up petition (RM355.9k) and a judgment entered (RM97.6k)"
+  notes: "Major red flags: missing 2023 financials and severe legal exposure as a defendant, including an unresolved winding-up petition."
+
+SYN-000302:
+  must_mention:
+    - "Perak-based SME management consulting firm incorporated in 2014"
+    - "No financial statements available in the record"
+    - "Director 2 is the majority shareholder (58.7%)"
+    - "No litigation cases"
+  notes: "Shell or non-filing entity in the dataset — completely missing financial data."
+
+SYN-000333:
+  must_mention:
+    - "Sarawak textile and baju kurung retailer with RM5M share capital"
+    - "Formerly Unity Industries Sdn. Bhd. until September 2025"
+    - "No financial statements available in the record"
+    - "No litigation cases"
+  notes: "Despite being incorporated since 1997 with RM5M capital, zero financial records are provided."
+
+SYN-000381:
+  must_mention:
+    - "Boutique hotel operator in Kota Kinabalu (registered in Kedah)"
+    - "51% owned by Gemilang Holdings Sdn. Bhd. (SYN-009757)"
+    - "Strong revenue growth from RM8.99M (2022) to RM16.44M (2024)"
+    - "Net profit more than doubled from RM465k to RM975k with positive free cash flow"
+    - "No litigation cases"
+  notes: "Strong post-pandemic hospitality rebound, though borrowings increased alongside expansion."
+
+SYN-000397:
+  must_mention:
+    - "Selangor primary and secondary tuition centre operator"
+    - "Missing FY2023 financial data (only 2022 and 2024 available)"
+    - "Profitable with RM6.86M revenue and RM371k net profit in 2024"
+    - "Heavy defendant litigation history (6 cases), including a settled RM7.43M debt recovery claim, two judgments entered, and two pending suits"
+  notes: "Operations are profitable and deleveraging, but the gap in 2023 financials and recurring defendant lawsuits are big concerns."
+
+SYN-000451:
+  must_mention:
+    - "Coffee shop and cafe operator in Penang (registered in KL)"
+    - "Formerly Gemilang Ventures Sdn. Bhd. until November 2025"
+    - "Declining revenue (RM2.32M to RM2.08M) and widening losses (-RM276k in 2024)"
+    - "Technically insolvent in 2024 with negative total equity (-RM18.5k) and negative working capital"
+    - "Two closed litigation cases (one plaintiff settled, one defendant dismissed)"
+  notes: "Distressed F&B business — accumulated losses have completely wiped out shareholder equity."
+
+SYN-000476:
+  must_mention:
+    - "Sarawak manufacturer of plastic food packaging"
+    - "Wholly-owned subsidiary (100%) of Sejahtera Holdings Sdn. Bhd. (SYN-009086)"
+    - "Sharp revenue decline from RM37.58M (2022) to RM24.21M (2024)"
+    - "Net profit fell nearly 88% from RM2.23M to RM269k as margins compressed"
+    - "Still maintains strong net working capital (RM6.50M) and low leverage (0.60x)"
+    - "No litigation cases"
+  notes: "Top-line contraction and margin squeeze are hurting profits, though the balance sheet remains conservative."
+
+SYN-000510:
+  must_mention:
+    - "Retailer of mobile phones and accessories in Kuantan (registered in KL)"
+    - "Revenue declined steadily from RM6.60M (2022) to RM4.37M (2024)"
+    - "Net profit shrank from RM229k to near break-even (RM35.6k) in 2024"
+    - "Very low leverage (0.14x) and strong liquidity (cash ratio 1.36x)"
+    - "Director 2 holds 96.87% ownership"
+    - "No litigation cases"
+  notes: "Sales and margins are eroding, but minimal debt and healthy cash reserves keep it afloat safely."
