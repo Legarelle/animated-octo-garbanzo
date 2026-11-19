@@ -4,7 +4,7 @@
 
 - **Provider and model:** DeepSeek API, `deepseek-flash` (the default in `generate.py`), `temperature=0.2`, thinking mode disabled, one run per company.
 - **Companies:** I generated summaries for all 50. I labelled 15 and reviewed 12 side by side.
-- **Time spent:** **8** hours.
+- **Time spent:** **5.5** Total hours. 2 Hours Understanding and 3.5 hours on the code
 - **AI tools used:** Gemini, Claude and DeepSeek (DeepSeek is also the model the pipeline calls) wrote most of the pipeline code (digest, generation, evaluator, scripts, viewer) and drafted this document, the per-company notes, and a first pass at the 76 label items. I chose which criteria to keep and checked the label items against the raw records before using them. The 1–5 scores and failure categories in `results/review.csv` are mine.
 
 ## 1. What a good summary is for this team, and why
